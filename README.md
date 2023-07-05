@@ -1,4 +1,4 @@
-## Running React on Repl.it
+## Running React on Repl.it, a very elegant smart online IDE 
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
 
